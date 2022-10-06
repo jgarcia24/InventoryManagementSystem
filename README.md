@@ -1,5 +1,9 @@
 # InventoryManagementSystem
-Developed an inventory management system using PHP, mySQL, Nginx, and Linux that efficiently handles millions of data records.
+• Developed an inventory management system using PHP, mySQL, Nginx, and Linux that efficiently handles millions of data records.
+• Utilized PHP to create REST APIs to process user actions and facilitate communication between the front-end and
+the database
+• Optimized mySQL queries to more efficiently process data, leading to significant decreases in web page load times
+
 
 This Inventory Management System has the following features:
 - View a device
